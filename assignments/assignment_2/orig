@@ -1,0 +1,133 @@
+<ul class="disc">
+                <li>
+                    Social Media
+                    <ul class="square">
+                        <li>Facebook - ::1,10,11,12::</li>
+                        <li>Twitter - ::73,65,62,59::</li>
+                        <li>Linkedin - ::13,14,31,59::</li>
+                        <li>Watsapp - ::15::</li>
+                        <li>Youtube - ::10,19,30::</li>
+                    </ul>
+                </li>
+                <li>
+                    Books
+                    <ul class="square">
+                        <li>
+                            Fantasy
+                            <ul class="circle">
+                                <li>Kingkiller Chronicles</li>
+                                <li>The Stormlight Archive - ::60::</li>
+                                <li>The Red Rising Trilogy</li>
+                                <li>The Dark Tower Series - ::13::</li>
+                                <li>Lord of the Rings - ::13,17,42,78::</li>
+                            </ul>
+                        </li>
+                        <li>Adventure</li>
+                        <li>Thrillers</li>
+                        <li>Action</li>
+                        <li>Legal</li>
+                        <li>Dysoptian</li>
+                    </ul>
+                </li>
+                <li>
+                    Print News
+                    <ul class="square">
+                        <li>The Hindu</li>
+                        <li>The Times of India - ::27,4,55::</li>
+                        <li>Washington Post</li>
+                        <li>New York Times - ::1,13,42,77::</li>
+                    </ul>
+                </li>
+                <li>
+                    Online News
+                    <ul class="square">
+                        <li>Ars Technica</li>
+                        <li>Engadged</li>
+                        <li>The Verge - ::3,57::</li>
+                        <li>Mashable</li>
+                    </ul>
+                </li>
+                <li>
+                    Reddit - ::13,20,23,25::
+                    <ul class="square">
+                        <li>r/todayilearned</li>
+                        <li>r/news</li>
+                        <li>r/dataisbeautiful</li>
+                        <li>r/explainlikeimfive</li>
+                        <li>r/legaladvice</li>
+                        <li>r/instant_regret</li>
+                        <li>r/lifehacks</li>
+                        <li>r/michaelbaygifs</li>
+                        <li>r/oddlysatisfying</li>
+                        <li>r/reallifedoodles</li>
+                        <li>r/Showerthoughts</li>
+                    </ul>
+                </li>
+                <li>
+                    Video
+                    <ul class="square">
+                        <li>
+                            Anime
+                            <ul class="circle">
+                                <li>Full Metal Alchemist - ::25,78::</li>
+                                <li>Samurai X</li>
+                                <li>Death Note - ::15::</li>
+                                <li>Hungry Heart</li>
+                                <li>Inuyasha</li>
+                                <li>Dragon Ball Z</li>
+                            </ul>
+                        </li>
+                        <li>
+                            Documentaries - ::13,45::
+                            <ul class="circle">
+                                <li>The Particle Fever</li>
+                                <li>Making a Murderer</li>
+                                <li>Blue Planet</li>
+                                <li>Cosmos: A Space Odyssey - ::11,73::</li>
+                            </ul>
+                        </li>
+                        <li>
+                            TV Shows
+                            <ul class="circle">
+                                <li>Breaking Bad - ::12,43,55::</li>
+                                <li>Daredevil - ::12,13,29,30::</li>
+                                <li>Walking Dead - ::11,18,19,35::</li>
+                                <li>Dexter - ::27::</li>
+                                <li>House MD - ::14,59::</li>
+                                <li>Battlestar Galactica</li>
+                                <li>Top Gear - ::55,69,73::</li>
+                                <li>Firefly - ::69,73,78::</li>
+                            </ul>
+                        </li>
+                        <li>
+                            Cartoons - ::29,31,39::
+                            <ul class="circle">
+                                <li>Dexter's Laboratory</li>
+                                <li>Samurai Jack</li>
+                                <li>Laff-A-Lympics</li>
+                                <li>Courage the Cowardly Dog</li>
+                            </ul>
+                        </li>
+                        <li>
+                            Movies
+                            <ul class="circle">
+                                <li>Star Wars - ::13,33,23,36::</li>
+                                <li>The Usual Suspects</li>
+                                <li>The Martian - ::42::</li>
+                                <li>Snatch</li>
+                                <li>Max Max: Fury Road - ::13::</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    Music - Spotify
+                    <ul class="square">
+                        <li>Indian - ::24,17,27::</li>
+                        <li>Pop</li>
+                        <li>Electronic - ::13,76,8::</li>
+                        <li>Western Classical - ::42::</li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
